@@ -24,7 +24,7 @@ Empezaré a subir mis proyectos de Frontend Mentor para que podamos crecer junto
 ### Enlaces
 
 - [Solución en GitHub](https://github.com/CristianAguilar-dev/Proyecto-Codigo-QR-Frontend-Mentor)
-- [Ver sitio en vivo](https://cristianaguilar-dev.github.io./)
+- [Ver sitio en vivo](https://cristianaguilar-dev.github.io/Proyecto-Codigo-QR-Frontend-Mentor/)
 
 ## Mi Proceso
 
@@ -95,7 +95,7 @@ I'm starting to upload my Frontend Mentor projects so that we can grow together 
 ### Links
 
 - [Solution on GitHub](https://github.com/CristianAguilar-dev/QR-Code-Component-Frontend-Mentor)
-- [Live Site](https://cristianaguilar-dev.github.io./)
+- [Live Site](https://cristianaguilar-dev.github.io/Proyecto-Codigo-QR-Frontend-Mentor/)
 
 ## My Process
 
