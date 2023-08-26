@@ -23,8 +23,8 @@ Empezaré a subir mis proyectos de Frontend Mentor para que podamos crecer junto
 
 ### Enlaces
 
-- [Solución en GitHub](https://github.com/tuusuario/tuproyecto)
-- [Ver sitio en vivo](https://tusitioenlivo.com)
+- [Solución en GitHub](https://github.com/CristianAguilar-dev/Proyecto-Codigo-QR-Frontend-Mentor)
+- [Ver sitio en vivo](https://cristianaguilar-dev.github.io./)
 
 ## Mi Proceso
 
@@ -37,7 +37,7 @@ Estilos CSS: Luego me enfoqué en aplicar estilos al componente. Utilicé propie
 
 Flexbox para el Diseño: Para lograr un diseño flexible y centrado, utilicé el modelo de diseño Flexbox. Esto me permitió alinear fácilmente los elementos horizontal y verticalmente.
 
-Bootstrap Icons y Google Fonts: Incorporé íconos de Bootstrap para el diseño y elegí la fuente de Google Fonts "Outfit" para el texto, asegurando una apariencia coherente y moderna.
+Google Fonts: Elegí la fuente de Google Fonts "Outfit" para el texto, asegurando una apariencia coherente y moderna.
 
 Ajuste para Móviles: Siguiendo el enfoque "mobile-first", aseguré que el componente fuera responsive y se adaptara a diferentes tamaños de pantalla utilizando consultas de medios y ajustando los estilos según fuera necesario.
 
@@ -49,7 +49,6 @@ Optimización de Imágenes: Optimicé las imágenes utilizadas en el componente 
 - Propiedades personalizadas de CSS
 - Flexbox
 - Flujo de trabajo Mobile-first
-- Bootstrap Icons
 - Google Fonts
 
 ### Lo que Aprendí
@@ -68,12 +67,11 @@ Este desafío me ha recordado la importancia de la práctica constante en el des
 
 - [Documentación de Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [Guía de CSS Box Shadow](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
-- [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ## Autor
 
-- [Perfil de Frontend Mentor](https://www.frontendmentor.io/profile/tuusuario)
-- [Twitter](https://twitter.com/tutwitter)
+- [Perfil de Frontend Mentor](https://www.frontendmentor.io/profile/Criszafiro)
+
 
 ## Agradecimientos
 
@@ -85,29 +83,43 @@ Agradezco a Frontend Mentor por proporcionar desafíos inspiradores y a la comun
 
 # Frontend Mentor - QR Code Component Solution
 
-This is my solution for the [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) on Frontend Mentor. Frontend Mentor challenges help me improve my coding skills by building realistic projects.
+This is my solution for the [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) on Frontend Mentor. Frontend Mentor challenges allow me to improve my coding skills by building realistic projects.
 
 ## Overview
 ### Screenshot of My Solution
 
-![Screenshot](./images/Captura%20de%20pantalla%20CÓDE-QR.png)
+![Screenshot](./images/Screenshot%20of%20QR-Code%20Component.png)
 
-I will start uploading my Frontend Mentor projects so that we can grow together in knowledge and practice in the wonderful world of web development. This project involves creating a QR code component that resembles the provided design.
+I'm starting to upload my Frontend Mentor projects so that we can grow together in knowledge and practice in the wonderful world of web development. This project involves creating a QR code component that closely resembles the provided design.
 
 ### Links
 
-- [Solution on GitHub](https://github.com/yourusername/yourproject)
-- [Live Site](https://yourlivesite.com)
+- [Solution on GitHub](https://github.com/CristianAguilar-dev/QR-Code-Component-Frontend-Mentor)
+- [Live Site](https://cristianaguilar-dev.github.io./)
 
 ## My Process
 
-### Built with
+Step-by-Step Development
+Challenge Review: I began by reviewing the challenge details on Frontend Mentor to understand the requirements and provided design.
+
+HTML Structure: I started by creating the basic structure of the component using semantic tags like section, figure, and article. This helped organize the content meaningfully.
+
+CSS Styling: Next, I focused on applying styles to the component. I used custom CSS properties to establish consistent colors, sizes, and spacing throughout the design.
+
+Flexbox for Layout: To achieve a flexible and centered layout, I utilized the Flexbox layout model. This allowed me to easily align elements both horizontally and vertically.
+
+Google Fonts: I chose the Google Fonts "Outfit" font for text, ensuring a consistent and modern appearance.
+
+Mobile Adjustments: Following the "mobile-first" approach, I ensured the component was responsive and adapted to different screen sizes using media queries and adjusting styles as needed.
+
+Image Optimization: I optimized the images used in the component to ensure fast loading and a smooth user experience.
+
+### Built With
 
 - Semantic HTML
 - Custom CSS Properties
 - Flexbox
-- Mobile-first Workflow
-- Bootstrap Icons
+- Mobile-First Workflow
 - Google Fonts
 
 ### What I Learned
@@ -116,24 +128,21 @@ Throughout this project, I learned how to structure and design a QR code compone
 
 ### Continued Development
 
-I will continue to focus on improving my design and CSS layout skills, as well as learning more about creating interactive components.
+I will continue to focus on improving my CSS design and layout skills, as well as learning more about creating interactive components.
 
 ### Reflection
 
-This challenge reminded me of the importance of consistent practice in web development. Each project brings me one step closer to my goal of becoming an expert in the field. Through collaboration and continuous learning, I am excited about the journey ahead in this exciting world.
+This challenge has reminded me of the importance of consistent practice in web development. Each project brings me closer to my goal of becoming an expert in the field. Through collaboration and continuous learning, I'm excited for the journey ahead in this exciting world.
 
 ### Useful Resources
 
 - [Flexbox Documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [CSS Box Shadow Guide](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
-- [Bootstrap Icons](https://icons.getbootstrap.com/)
 
 ## Author
 
-- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/yourusername)
-- [Twitter](https://twitter.com/yourtwitter)
+- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/Criszafiro)
 
-## Acknowledgments
+## Acknowledgements
 
-I appreciate Frontend Mentor for providing inspiring challenges and the community for offering support and constructive feedback.
-
+I thank Frontend Mentor for providing inspiring challenges and the community for offering support and constructive feedback.
