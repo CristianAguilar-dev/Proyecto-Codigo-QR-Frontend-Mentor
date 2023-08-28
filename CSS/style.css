@@ -46,7 +46,7 @@ body {
     text-align: center;
 }
 /* title styles */
-.container-description h2 {
+.container-description h1 {
     margin-bottom: 15px;
     font-weight: 700;
     font-size: 2rem;
