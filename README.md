@@ -70,7 +70,7 @@ Este desafío me ha recordado la importancia de la práctica constante en el des
 
 ## Autor
 
-- [Perfil de Frontend Mentor](https://www.frontendmentor.io/profile/Criszafiro)
+- [Perfil de Frontend Mentor](https://www.frontendmentor.io/profile/CristianAguilar-dev)
 
 
 ## Agradecimientos
